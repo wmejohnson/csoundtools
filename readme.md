@@ -2,7 +2,7 @@
 
 In this repository you'll find an API for generating .sco files for csound rendering. These tools are designed with offline rendering of compositions in mind. 
 
-### procedurally generating csound score files
+#### Procedurally generating csound score files
 
 To create a new score:
 
@@ -34,7 +34,7 @@ Run this in the terminal to generate a .sco file:
 python [filename].py
 ```
 
-### Ideas about things to come
+#### Ideas about things to come
 
 1. Spellchecker which makes sure events on the same staff aren't overlapping
 2. Algorithmic generation of instruments
