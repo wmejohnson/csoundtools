@@ -22,5 +22,16 @@ Events are added to staves with their start time, their duration and their other
 staff1.add_event(0, 1, [1 for i in range(3)])
 ```
 
+Write the score to a .sco file:
+
+```
+score.write_score_file('01.sco')
+```
+
+### Ideas about things to come
+
+1. Spellchecker which makes sure events on the same staff aren't overlapping
+2. Algorithmic generation of instruments
 
 	  
+Get in touch if you have ideas or want to help out! -WJ

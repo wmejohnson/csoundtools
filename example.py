@@ -4,12 +4,6 @@ construction no. 1
 finished 12142015
 
 in this first piece using python to construct csound scores i worked by adding events sucessively. this caused difficulty when i wanted to make an instr react to something another instr and i hadn't previously been using that instr. i did verify the possibility of using a time index with the nosie--->reverb thing. 
-
-next: 
-i want to do this by working with time indicies rather than successive addition of events. 
-    -- create some sort of 'spell checker' to make sure that i don't have events that overlap?
-
-i want to work with exhaustive possibilites. develop a system wherein i can work with n pools of data and sonify every possible combination of them. 
 """
 
 import csound
