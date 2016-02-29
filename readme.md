@@ -28,6 +28,12 @@ Write the score to a .sco file:
 score.write_score_file('01.sco')
 ```
 
+Run this in the terminal to generate a .sco file:
+
+```
+python [filename].py
+```
+
 ### Ideas about things to come
 
 1. Spellchecker which makes sure events on the same staff aren't overlapping
